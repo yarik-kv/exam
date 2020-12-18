@@ -21,6 +21,7 @@ class calc:
 
 
 clc = calc(8.90)
+print("Hello")
 print(clc.__add__(3))
 print(clc.__sub__(9))
 print(clc.__sub__(8))
